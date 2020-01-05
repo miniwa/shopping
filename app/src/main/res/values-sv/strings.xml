@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kundvagn</string>
+    <string name="navigation_title_shopping_list">Lista</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifieringar</string>
+    <string name="fragment_add_shopping_item_hint">Produkt</string>
+    <string name="fragment_add_shopping_quantity_hint">Antal</string>
+    <string name="fragment_add_shopping_button_text">Lägg till</string>
+    <string name="navigation_title_signin">Logga in</string>
+    <string name="navigation_title_signout">Logga ut</string>
+    <string name="toast_user_authenticated_format">Inloggad som %s</string>
+    <string name="toast_user_signed_out">Loggade ut</string>
+</resources>

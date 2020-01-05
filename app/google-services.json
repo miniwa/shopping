@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "288584829666",
+    "firebase_url": "https://shopping-e1464.firebaseio.com",
+    "project_id": "shopping-e1464",
+    "storage_bucket": "shopping-e1464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288584829666:android:d44ad176d68522cf5aecbb",
+        "android_client_info": {
+          "package_name": "se.miniwa.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288584829666-cqtqa2k7cfrsjlvfd4qea70a3dmiiufn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "se.miniwa.shopping",
+            "certificate_hash": "9a7312c53009664df3609360398382928f12caec"
+          }
+        },
+        {
+          "client_id": "288584829666-162nuchcdsgdtab009t050rt087ivqqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdkFKcS9bP7ZpWUfu4XwoLt_Zl7ocEZ_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288584829666-162nuchcdsgdtab009t050rt087ivqqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
